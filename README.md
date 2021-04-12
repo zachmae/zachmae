@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Minecraft builds (or knowledge for programmation but thats optional)
 - 💬 Ask me about Animes, video games... No ask me about C programmin, i may help.
 - 📫 How to reach me: zacharie2002@gmail.com
-- 😄 Pronouns: Are we suppose to have some? Attack helicopter then
+- 😄 Pronouns: Are we suppose to have some?
 - ⚡ Fun fact: I hate K-pop
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachmae&orgs=EpitechIT2020&count_private=true&show_icons=true&theme=synthwave)
