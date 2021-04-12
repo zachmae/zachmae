@@ -9,4 +9,4 @@
 - 😄 Pronouns: Are we suppose to have some? Attack helicopter then
 - ⚡ Fun fact: I hate K-pop
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachmae&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachmae&count_private=true&show_icons=true&theme=synthwave)
