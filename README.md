@@ -9,5 +9,6 @@
 - 😄 Pronouns: Are we suppose to have some?
 - ⚡ Fun fact: I hate K-pop
 
+#titre SOME STATS📈
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachmae&orgs=EpitechIT2020&count_private=true&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zachmae&layout=compact&theme=synthwave)
