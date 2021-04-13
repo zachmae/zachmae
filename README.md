@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zachmae&label=Profile%20views&color=0e75b6&style=flat" alt="zachmae" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zachmae" alt="zachmae" /></a> </p>
 
 - 🔭 I’m currently working on [my School project at Epitech](https://github.com/zachmae/my_sokoban)
 
@@ -29,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zachmae&show_icons=true&locale=en&layout=compact" alt="zachmae" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zachmae&show_icons=true&locale=en" alt="zachmae" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zachmae&show_icons=true&locale=en&theme=synthwave" alt="zachmae" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zachmae&" alt="zachmae" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zachmae&theme=synthwave" alt="zachmae" /></p>
