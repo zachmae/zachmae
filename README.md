@@ -1,5 +1,5 @@
 <h1 align="center">Hello, It's me Zach !👋</h1>
-<h3 align="center">An Epitech 1st year student at Paris</h3>
+<h3 align="center">An Epitech 2nd year student at Paris</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zachmae&label=Profile%20views&color=0e75b6&style=flat" alt="zachmae" /> </p>
 
