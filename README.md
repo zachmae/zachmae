@@ -4,15 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zachmae&label=Profile%20views&color=0e75b6&style=flat" alt="zachmae" /> </p>
 
 
-- 🔭 I’m currently working on [my School project at Epitech](https://github.com/zachmae/The_prequel_of_isaac)
+- 🔭 I’m currently working on **As a Python developper at [Oligos](https://oligos.fr/)**
 
-- 🌱 I’m currently learning **C programming and AI**
-
-- 👯 I’m looking for a work experience **from July to December 2021**
+- 🌱 I’m currently learning **improving my Python knowledges by working as an intern**
 
 - 🎮 Activites and Hobbies **Video Games, Anime, I may be playin beat saber right now**
 
-- 💬 Ask me about **Animes, video games... No ask me about C programmin, i may help.**
+- 💬 Ask me about **Animes, video games... No ask me about C or Python programmin, i may help.**
 
 - 📫 How to reach me **zacharie2002@gmail.com**
 
