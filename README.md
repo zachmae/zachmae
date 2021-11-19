@@ -1,8 +1,4 @@
-[gmail]: mailto:zacharie2002@gmail.com
-
 <h2>Hey Hey Hey! Welcome to my github page</h2>
-
-[<img align="left" alt="Zachmae | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
 
 </br>
 </br>
