@@ -7,7 +7,7 @@
 
 **About me :**
 
-- 🔭 I’m currently working on **As a Python developper at [Oligos](https://oligos.fr/)**
+- 🔭 I’ve been working on **As a Python developper at [Oligos](https://oligos.fr/)**
 - 🎫 Currently studying at [@Epitech](https://www.epitech.eu/) as a 2nd Year Student
 - 💻 I'm learning C, Python
 - 🎮 Activites and Hobbies **Video Games, Anime, Rock climbing, I may be playin beat saber right now**
