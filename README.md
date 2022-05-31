@@ -18,7 +18,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/zacharie-lawson-81357b209/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/zacharie-lawson-81357b209/" height="30" width="40" /></a><a href="https://discord.gg/321204705424310274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="321204705424310274" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zacharie-lawson-81357b209/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/zacharie-lawson-81357b209/" height="30" width="40" /></a><a href="https://discord.gg/users/321204705424310274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="321204705424310274" height="30" width="40" /></a>
 
 </p>
 <h3 align="center">Languages and Tools:</h3>
