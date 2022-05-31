@@ -26,7 +26,7 @@
 
 <div align="center">
 <!-- <a href="https://discord.com/users/202740603790819328" > -->
-  <a href="https://laby.net/@liebesschwur" >
+  <a href="https://steamcommunity.com/id/zachmae/" >
    <img src="https://lanyard.cnrad.dev/api/321204705424310274?idleMessage=Il%20faut%20croquer%20la%20vie%20a%20pleines%20dents%20et%20profiter%20de%20chaque%20gorgée%20comme%20étant%20la%20dernière&animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121"  />
   </a>
   <br>
