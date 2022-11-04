@@ -8,7 +8,7 @@
 **About me :**
 
 - 🔭 I’ve been working on **As a Python developper at [Oligos](https://oligos.fr/)**
-- 🎫 Currently studying at [@Epitech](https://www.epitech.eu/) as a 2nd Year Student
+- 🎫 Currently studying at [@Epitech](https://www.epitech.eu/) as a 3rd Year Student where i am Technical Assistant (ASTEK)
 - 💻 I'm learning C, C++, Python, Haskell
 - 🎮 Activites and Hobbies **Video Games, Anime, Rock climbing, I may be playin beat saber right now**
 
