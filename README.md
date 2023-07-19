@@ -12,6 +12,7 @@
 - 🎫 Currently studying at [Epitech](https://www.epitech.eu/) as a 3rd Year Student and **Software Developper** at 🐝 [**Cashbee**](https://www.cashbee.fr/) 🐝
 - 💻 I'm learning C(++), Python, Haskell, Ruby, TS
 - 🎮 Activites and Hobbies **Video Games, Anime, Rock climbing, I may be playin beat saber right now**
+- 🇯🇵 Studying in Tokyo from September (Shibaura Institute of Technology)
 
 
 </br>
