@@ -7,12 +7,13 @@
 
 **About me :**
 
-- 🔭 I’ve been working on as a **Python developper at [Oligos](https://oligos.fr/)**
+- 🦍 I am APE (Pedagocical assistant) at Epitech Paris
+- 🔭 I’ve been working on as a **Python developper at [Oligos](https://oligos.fr/)** and **Software Developper** at 🐝 [**Cashbee**](https://www.cashbee.fr/) 🐝
 - 🗿 Former **Technical Assistant ([ASTEK](https://instagram.com/astekparis?igshid=YmMyMTA2M2Y=))** at Epitech Paris
-- 🎫 Currently studying at [Epitech](https://www.epitech.eu/) as a 3rd Year Student and **Software Developper** at 🐝 [**Cashbee**](https://www.cashbee.fr/) 🐝
+- 🎫 Currently studying at [Epitech](https://www.epitech.eu/) as a 5 Year Student 
 - 💻 I'm learning C(++), Python, Haskell, Ruby, TS
 - 🎮 Activites and Hobbies **Video Games, Anime, Rock climbing, I may be playin beat saber right now**
-- 🇯🇵 Studying in Tokyo from September (Shibaura Institute of Technology)
+- 🇯🇵 Studied in Tokyo for a year at Shibaura Institute of Technology :) (was so nice)
 
 
 </br>
